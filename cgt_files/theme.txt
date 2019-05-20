@@ -1,0 +1,24 @@
+ThemeName			"dark"
+Author				"kmgnkhr"
+
+
+BookImagePosX		11
+BookImagePosY		8
+
+FolderImagePosX		0
+FolderImagePosY		0
+FolderImageWidth	96
+FolderImageHeight	118
+
+
+BookLabelPosX		13
+BookLabelPosY		15
+BookLabelWidth		69
+BookLabelHeight		90
+
+FolderLabelPosX		13
+FolderLabelPosY		70
+FolderLabelWidth	69
+FolderLabelHeight	46
+
+TintColor		#327bf6
